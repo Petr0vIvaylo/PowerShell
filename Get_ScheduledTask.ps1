@@ -1,0 +1,1 @@
+﻿Get-ScheduledTask | Where-Object {($_.State -ne "Disabled") -and ($_.TaskPath -eq "\")}

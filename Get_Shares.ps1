@@ -1,0 +1,1 @@
+﻿ Get-SmbShare | Format-List -Property name, path

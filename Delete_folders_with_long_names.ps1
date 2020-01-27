@@ -1,0 +1,1 @@
+﻿ robocopy E:\deleteF "E:\Groups\Desktop User" /purge
